@@ -4,12 +4,15 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+autopep8 = "*"
 
 [packages]
 pytest = "*"
 requests = "*"
 pyyaml = "*"
 pytest-xdist = "*"
+allure-pytest = "*"
+jsonschema = "*"
 
 [requires]
 python_version = "3.7"
