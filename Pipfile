@@ -13,6 +13,7 @@ pyyaml = "*"
 pytest-xdist = "*"
 allure-pytest = "*"
 jsonschema = "*"
+jsonpath = "*"
 
 [requires]
 python_version = "3.7"
